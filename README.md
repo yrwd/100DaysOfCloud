@@ -16,11 +16,11 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Joe's Cloud Journey
 
-[✍️ Introduce yourself]
+Hello! My name is Joe and I am currently on a graduate scheme that I joined after getting my master's degree in Mechatronic Engineering.
 
-[✍️ Tell us why you started this challenge]
+I've recently passed the AZ-900 and am working towards the AZ-104. I anticipate that a lot of my entries here will involve that somehow, perhaps picking up a side-project to work on while I study.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+By the end of this challenge, I would hope that I've developed some tangible practical skills as well as furthered my cloud knowledge. Ideally as well I will have a more concrete idea of where I want to take my cloud career.
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
