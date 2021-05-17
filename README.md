@@ -16,7 +16,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Joe's Cloud Journey
 
-Hello! My name is Joe and I am currently on a graduate scheme that I joined after getting my master's degree in Mechatronic Engineering.
+Hello! My name is Joe, and I am currently on a graduate scheme that I joined after getting my master's degree in Mechatronic Engineering.
 
 I've recently passed the AZ-900 and am working towards the AZ-104. I anticipate that a lot of my entries here will involve that somehow, perhaps picking up a side-project to work on while I study.
 
@@ -28,7 +28,7 @@ By the end of this challenge, I would hope that I've developed some tangible pra
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [My Second Day](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [My Second First Day](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
