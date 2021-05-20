@@ -19,6 +19,4 @@ I'm finding the video I mentioned above really well-paced and I am really gettin
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://twitter.com/yrwd_/status/1395405888865845252)
+[Twitter](https://twitter.com/yrwd_/status/1395405888865845252)
