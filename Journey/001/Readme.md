@@ -21,4 +21,4 @@ I'm finding the video I mentioned above really well-paced and I am really gettin
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://twitter.com/yrwd_/status/1395405888865845252)
