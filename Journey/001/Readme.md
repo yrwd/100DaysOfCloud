@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fminoritynurse.com%2F4-ways-prepare-first-day-job%2F&psig=AOvVaw2MdEsor3CJ5mrbUP2Y6dWp&ust=1621610105739000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICQvMTG2PACFQAAAAAdAAAAABAU)
+![placeholder image](https://15xh2r248z7d286gcz3i6g1q-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/first-day.jpg)
 
 # New post title here
 
