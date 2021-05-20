@@ -1,48 +1,21 @@
 ![placeholder image](https://i.imgur.com/IawGolS.jpg)
 
-# New post title here
+# Day 1 - Pre-planning
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+After ~~scrolling through reddit and twitter~~ doing some research, I'm going to make the focus of this 100DaysOfCloud challenge getting myself to the point where I'm ready to take the AZ-104 exam. Hopefully getting some exposure to the wider cloud community and actually understanding what's going on! If as time goes on my knowledge increases enough that I end up with a side project, I will also document my progress.
 
-## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Cloud Study
 
-## Use Case
+So at this point, I'm essentially launching into the tough stuff of AZ-104. I completed the AZ-900 last month so I've been able to blast through the prerequisites on MS Learn. I'm also supplementing the MS Learn documentation with this video: https://www.youtube.com/watch?v=10PbGbTUSAg from freeCodeCamp.org which is brilliant.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+I'm finding the video I mentioned above really well-paced and I am really getting through the content faster and easier than by just using the MS Learn documentation. So I may start off by finishing the freeCodeCamp.org video, and then going through MS Learn to do the reading, and then the labs/knowledge tests.
 
 ## Social Proof
 
