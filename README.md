@@ -19,8 +19,8 @@ I've recently passed the AZ-900 and am working towards the AZ-104. I anticipate 
 
 By the end of this challenge, I would hope that I've developed some tangible practical skills as well as furthered my cloud knowledge. Ideally as well I will have a more concrete idea of where I want to take my cloud career.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/yrwd_)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/josephyarwood)
 
 ## Stepping out the door
 
