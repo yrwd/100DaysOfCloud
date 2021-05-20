@@ -1,5 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](https://15xh2r248z7d286gcz3i6g1q-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/first-day.jpg)
+![placeholder image](https://imgur.com/IawGolS)
 
 # New post title here
 
