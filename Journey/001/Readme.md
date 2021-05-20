@@ -1,4 +1,4 @@
-![placeholder image](https://imgur.com/IawGolS)
+![placeholder image](https://i.imgur.com/IawGolS.jpg)
 
 # New post title here
 
