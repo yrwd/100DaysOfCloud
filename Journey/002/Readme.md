@@ -13,6 +13,4 @@ Planning to get some more serious work done over the weekend!
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter](https://twitter.com/yrwd_/status/1395837461889179648)
