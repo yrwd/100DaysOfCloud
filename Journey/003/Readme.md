@@ -1,52 +1,15 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
+# Day 3
 
-## Introduction
+## Cloud Study
+Much better day today, covered the whole policy section needed for the AZ-104, the whole ARM and ARM Template sections, and most of the storage account section. 
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Tried playing around with using AZCopy to copy files to storage accounts and had tonne of issues getting it to run. Didn’t seem to like any of the access roles I had on my personal account, eventually gave up and tried using my work account and voila it worked. Went back and used my personal account and that worked too. Turns out I’m just very impatient and didn’t wait long enough to let the roles get set up properly! 
 
-## Prerequisite
+Will hopefully get some experience with creating a File Share tomorrow, and setting up Files Sync!
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter](https://twitter.com/yrwd_/status/1395837461889179648)
