@@ -32,8 +32,8 @@ By the end of this challenge, I would hope that I've developed some tangible pra
 - [ ] ☁️ 6 > [My Sixth Day](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Lucky Number 7](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [My Eighth Day](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 9 > [My Ninth Day](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [My Tenth Day](Journey/010/Readme.md)
 
 ## Walking down the road
 
